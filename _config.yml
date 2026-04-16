@@ -23,7 +23,7 @@ repository               : "calzonelover/calzonelover.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : profile.png
   name             : "Patomporn Payoungkhamdee"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student at VISTEC"
