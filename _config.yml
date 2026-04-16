@@ -30,7 +30,7 @@ author:
   location         : # "Earth"
   employer         : # University
   uri              : # URL
-  email            : # "none@example.org" 
+  email            : "patomporn.p_s21@vistec.ac.th" # "none@example.org" 
 
   # Academic websites
   academia         : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "patomp" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
