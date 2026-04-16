@@ -24,7 +24,7 @@ Publications
 - [Exploring Cross-Client Memorization of Training Data in Large Language Models for Federated Learning](https://arxiv.org/pdf/2510.08750) Tinnakit Udsa, Can Udomcharoenchaikit, **Patomporn Payoungkhamdee**, Sarana Nutanong, Norrathep Rattanavipanon **(ACL 2026)**
 - [Towards Better Understanding of Program-of-Thought Reasoning in Cross-Lingual and Multilingual Environments](https://aclanthology.org/2025.findings-acl.817.pdf) **Patomporn Payoungkhamdee**, Pume Tuchinda, Jinheon Baek, Samuel Cahyawijaya, Can Udomcharoenchaikit, Potsawee Manakul, Peerat Limkonchotiwat, Ekapol Chuangsuwanich, Sarana Nutanong **(Findings of ACL 2025)**
 - [An Empirical Study of Multilingual Reasoning Distillation for Question Answering](https://aclanthology.org/2024.emnlp-main.442.pdf) **Patomporn Payoungkhamdee**, Peerat Limkonchotiwat, Jinheon Baek, Potsawee Manakul, Can Udomcharoenchaikit, Ekapol Chuangsuwanich, Sarana Nutanong **(EMNLP 2024)**
-- [Mitigating Spurious Correlation in Natural Language Understanding with Counterfactual Inference]() Can Udomcharoenchaikit, Wuttikorn Ponwitayarat, **Patomporn Payoungkhamdee**, Kanruethai Masuk, Weerayut Buaphet, Ekapol Chuangsuwanich, Sarana Nutanong **(EMNLP 2022)**
+- [Mitigating Spurious Correlation in Natural Language Understanding with Counterfactual Inference](https://aclanthology.org/2022.emnlp-main.777.pdf) Can Udomcharoenchaikit, Wuttikorn Ponwitayarat, **Patomporn Payoungkhamdee**, Kanruethai Masuk, Weerayut Buaphet, Ekapol Chuangsuwanich, Sarana Nutanong **(EMNLP 2022)**
 
 Academic and Voluntary Services
 ======
