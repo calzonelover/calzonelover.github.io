@@ -11,7 +11,7 @@ redirect_from:
 
 I am currently a Visiting Scholar at [AI Singapore](https://aisingapore.org/) (through June 2026), supervised by [Dr. Peerat Limkonchotiwat](https://mrpeerat.github.io/). I am a Ph.D. student at VISTEC in the Natural Language and Representation Lab (NRL), [School of Information Science and Technology (IST)](https://vistec.ist/), under the supervision of [Assoc. Prof. Dr. Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ) and [Asst. Prof. Ekapol Chuangsuwanich](https://ekapolc.github.io/).
 
-My research primarily focuses on multilingual reasoning and tool-integrated reasoning. My current work includes:
+My research primarily focuses on **multilingual reasoning and tool-integrated reasoning**. My current work includes:
 
 - On-Policy Multilingual Distillation in Southeast Asian (SEA) languages.
 - Exploiting key properties for effective reasoning with Code Interpreters.
