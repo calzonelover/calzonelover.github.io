@@ -19,6 +19,7 @@ Beyond my core research, I serve as a mentor for the [SEACrowd 2026 Apprentice P
 
 Previously, I contributed to the Thai LLM community through the WangchanX Project. My contributions include [MT-Bench Thai](https://huggingface.co/datasets/ThaiLLM-Leaderboard/mt-bench-thai), a multi-turn benchmark featuring culturally-aligned instructions and a "Knowledge III" category, along with the release of [WangchanGLM](https://github.com/PyThaiNLP/WangChanGLM) and the [WangchanX Toolkit](https://github.com/vistec-AI/WangchanX).
 
+
 Publications
 ======
 - [Exploring Cross-Client Memorization of Training Data in Large Language Models for Federated Learning](https://arxiv.org/pdf/2510.08750) Tinnakit Udsa, Can Udomcharoenchaikit, **Patomporn Payoungkhamdee**, Sarana Nutanong, Norrathep Rattanavipanon **(ACL 2026)**
@@ -30,3 +31,8 @@ Academic and Voluntary Services
 ======
 - ACL Rolling Review: 2025, 2026
 - Mentor in [SEACrowd 2026 Apprentice Program](https://seacrowd.org/apprenticeship) on the topic: Multilingual Agentic for Underrepresented Regions
+
+Background
+------
+Prior to entering Computer Science, I earned my M.Sc. and B.Sc. (Distinction Program) in Physics at Mahidol University under [Asst. Prof. Warit Mitthumsiri](https://science.mahidol.ac.th/expertise/search.php?q=Warit%20Mitthumsiri), focusing on astroparticle physics. During this time, I held research internships at [CERN (CMS)](https://home.cern/science/experiments/cms) with [Kaori Maeshima](https://cms.fnal.gov/kaori-maeshima/) and the University of Pisa with [Francesca Spada](https://www.researchgate.net/profile/Francesca-Spada-2). I later transitioned into industry, where I developed my foundations in ML and NLP solving real-world problems with [Vipas Sutantayawalee](https://th.linkedin.com/in/vipas-sutantayawalee-58aa57315) at [Backyard](https://www.backyard.in.th/en).
+
