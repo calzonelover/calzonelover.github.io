@@ -15,7 +15,7 @@ My research primarily focuses on **Multilingual Reasoning and Tool-Integrated Re
 - On-Policy Multilingual Distillation in Southeast Asian (SEA) languages.
 - Exploiting key properties for effective reasoning with Code Interpreters.
 
-Beyond my core research, I serve as a mentor for the [SEACrowd 2026 Apprentice Program](https://seacrowd.org/apprenticeship), collaborating with [Samuel Cahyawijaya](https://samuelcahyawijaya.github.io/) on Multilingual Agentic Systems for Underrepresented Regions.
+Beyond my core research, I serve as a mentor for the [SEACrowd 2026 Apprentice Program](https://seacrowd.org/apprenticeship), collaborating with [Samuel Cahyawijaya](https://scholar.google.com/citations?user=w5w_WZEAAAAJ&hl=en) on Multilingual Agentic Systems for Underrepresented Regions.
 
 Previously, I contributed to the Thai LLM community through the WangchanX Project. My contributions include [MT-Bench Thai](https://huggingface.co/datasets/ThaiLLM-Leaderboard/mt-bench-thai), a multi-turn benchmark featuring culturally-aligned instructions and a "Knowledge III" category, along with the release of [WangchanGLM](https://github.com/PyThaiNLP/WangChanGLM) and the [WangchanX Toolkit](https://github.com/vistec-AI/WangchanX).
 
