@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Patomporn's Homepage" # "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Patomporn Payoungkhamdee"
+description              : &description "Personal website of Patomporn Payoungkhamdee, a PhD student at VISTEC focused on Multilingual Reasoning and Tool-Integrated Reasoning."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://calzonelover.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -130,7 +130,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : "8NWecywNDNf57pkjOa3U0pbtstTy6RWFQNfJv4B9PXY"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
