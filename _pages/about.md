@@ -10,15 +10,18 @@ redirect_from:
 
 I am currently a Visiting Scholar at [AI Singapore](https://aisingapore.org/) (through June 2026), supervised by [Peerat Limkonchotiwat](https://mrpeerat.github.io/). I am a Ph.D. student at VISTEC in the Natural Language and Representation Lab (NRL), [School of Information Science and Technology (IST)](https://vistec.ist/), under the supervision of [Assoc. Prof. Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ) and [Asst. Prof. Ekapol Chuangsuwanich](https://ekapolc.github.io/).
 
-My research primarily focuses on **Multilingual Reasoning and Tool-Integrated Reasoning**. My current work includes:
-
-- On-Policy Multilingual Distillation in Southeast Asian (SEA) languages.
-- Exploiting key properties for effective reasoning with Code Interpreters.
+My research primarily focuses on **Multilingual Distillation and Tool-Integrated Reasoning**.
 
 Beyond my core research, I serve as a mentor for the [SEACrowd 2026 Apprentice Program](https://seacrowd.org/apprenticeship), collaborating with [Samuel Cahyawijaya](https://scholar.google.com/citations?user=w5w_WZEAAAAJ&hl=en) on Multilingual Agentic Systems for Underrepresented Regions.
 
 Previously, I contributed to the Thai LLM community through the WangchanX Project. My contributions include [MT-Bench Thai](https://huggingface.co/datasets/ThaiLLM-Leaderboard/mt-bench-thai), a multi-turn benchmark featuring culturally-aligned instructions and a "Knowledge III" category, along with the release of [WangchanGLM](https://github.com/PyThaiNLP/WangChanGLM) and the [WangchanX Toolkit](https://github.com/vistec-AI/WangchanX).
 
+
+Preprints
+======
+- [DuDi: Dual-Signal Distillation with Cross-Lingual Verbalizer](https://arxiv.org/pdf/2606.04694) **Patomporn Payoungkhamdee**, Tinnakit Udsa, Jian Gang Ngui, Sarana Nutanong, Alham Fikri Aji, Peerat Limkonchotiwat
+- <ins>Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter</ins> (arXiv Coming Soon) **Patomporn Payoungkhamdee**, Napat Laosaengpha, Jenta Wonglertsakul, Pittawat Taveekitworachai, Pume Tuchinda, Panjapong Poobanchuen, Ekapol Chuangsuwanich, Can Udomcharoenchaikit, Samuel Cahyawijaya, Peerat Limkonchotiwat, Sarana Nutanong
+- <ins>SEATauBench: Adapting Tool-Agent-User Evaluation Into Low-Resource Southeast Asian Languages</ins> (arXiv Coming Soon) My Chiffon Nguyen, Aulia Adila, Saksorn Ruangtanusak, Kittiphat Leesombatwathana, Vissuta Gunawan Lim, **Patomporn Payoungkhamdee**, Samuel Cahyawijaya
 
 Publications
 ======
