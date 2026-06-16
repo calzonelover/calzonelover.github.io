@@ -20,7 +20,7 @@ Previously, I contributed to the Thai LLM community through the WangchanX Projec
 Preprints
 ======
 - [DuDi: Dual-Signal Distillation with Cross-Lingual Verbalizer](https://arxiv.org/pdf/2606.04694) **Patomporn Payoungkhamdee**, Tinnakit Udsa, Jian Gang Ngui, Sarana Nutanong, Alham Fikri Aji, Peerat Limkonchotiwat
-- <ins>Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter</ins> (arXiv Coming Soon) **Patomporn Payoungkhamdee**, Napat Laosaengpha, Jenta Wonglertsakul, Pittawat Taveekitworachai, Pume Tuchinda, Panjapong Poobanchuen, Ekapol Chuangsuwanich, Can Udomcharoenchaikit, Samuel Cahyawijaya, Peerat Limkonchotiwat, Sarana Nutanong
+- [Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter](https://arxiv.org/pdf/2606.16934) **Patomporn Payoungkhamdee**, Napat Laosaengpha, Jenta Wonglertsakul, Pittawat Taveekitworachai, Pume Tuchinda, Panjapong Poobanchuen, Ekapol Chuangsuwanich, Can Udomcharoenchaikit, Samuel Cahyawijaya, Peerat Limkonchotiwat, Sarana Nutanong
 - <ins>SEATauBench: Adapting Tool-Agent-User Evaluation Into Low-Resource Southeast Asian Languages</ins> (arXiv Coming Soon) My Chiffon Nguyen, Aulia Adila, Saksorn Ruangtanusak, Kittiphat Leesombatwathana, Vissuta Gunawan Lim, **Patomporn Payoungkhamdee**, Samuel Cahyawijaya
 
 Publications
