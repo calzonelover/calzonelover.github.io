@@ -19,12 +19,12 @@ Previously, I contributed to the Thai LLM community through the WangchanX Projec
 
 Preprints
 ======
-- [DuDi: Dual-Signal Distillation with Cross-Lingual Verbalizer](https://arxiv.org/pdf/2606.04694) **Patomporn Payoungkhamdee***, Tinnakit Udsa*, Jian Gang Ngui, Sarana Nutanong, Alham Fikri Aji, Peerat Limkonchotiwat
 - [Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter](https://arxiv.org/pdf/2606.16934) **Patomporn Payoungkhamdee**, Napat Laosaengpha, Jenta Wonglertsakul, Pittawat Taveekitworachai, Pume Tuchinda, Panjapong Poobanchuen, Ekapol Chuangsuwanich, Can Udomcharoenchaikit, Samuel Cahyawijaya, Peerat Limkonchotiwat, Sarana Nutanong
-- [SEATauBench: Adapting Tool-Agent-User Evaluation Into Low-Resource Southeast Asian Languages](https://arxiv.org/pdf/2606.28715) My Chiffon Nguyen, Aulia Adila, Saksorn Ruangtanusak, Kittiphat Leesombatwathana, Vissuta Gunawan Lim, **Patomporn Payoungkhamdee**, Samuel Cahyawijaya
 
 Publications
 ======
+- [DuDi: Dual-Signal Distillation with Cross-Lingual Verbalizer](https://arxiv.org/pdf/2606.04694) **Patomporn Payoungkhamdee\***, Tinnakit Udsa\*, Jian Gang Ngui, Sarana Nutanong, Alham Fikri Aji, Peerat Limkonchotiwat **(AACL 2026)**
+- [SEATauBench: Adapting Tool-Agent-User Evaluation Into Low-Resource Southeast Asian Languages](https://arxiv.org/pdf/2606.28715) My Chiffon Nguyen, Aulia Adila, Saksorn Ruangtanusak, Kittiphat Leesombatwathana, Vissuta Gunawan Lim, **Patomporn Payoungkhamdee**, Samuel Cahyawijaya **(Findings of EMNLP 2026)**
 - [Exploring Cross-Client Memorization of Training Data in Large Language Models for Federated Learning](https://arxiv.org/pdf/2510.08750) Tinnakit Udsa, Can Udomcharoenchaikit, **Patomporn Payoungkhamdee**, Sarana Nutanong, Norrathep Rattanavipanon **(ACL 2026)**
 - [Towards Better Understanding of Program-of-Thought Reasoning in Cross-Lingual and Multilingual Environments](https://aclanthology.org/2025.findings-acl.817.pdf) **Patomporn Payoungkhamdee**, Pume Tuchinda, Jinheon Baek, Samuel Cahyawijaya, Can Udomcharoenchaikit, Potsawee Manakul, Peerat Limkonchotiwat, Ekapol Chuangsuwanich, Sarana Nutanong **(Findings of ACL 2025)**
 - [An Empirical Study of Multilingual Reasoning Distillation for Question Answering](https://aclanthology.org/2024.emnlp-main.442.pdf) **Patomporn Payoungkhamdee**, Peerat Limkonchotiwat, Jinheon Baek, Potsawee Manakul, Can Udomcharoenchaikit, Ekapol Chuangsuwanich, Sarana Nutanong **(EMNLP 2024)**
