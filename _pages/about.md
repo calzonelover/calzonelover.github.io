@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-I am currently a Visiting Scholar at [AI Singapore](https://aisingapore.org/) (through June 2026), supervised by [Peerat Limkonchotiwat](https://mrpeerat.github.io/). I am a Ph.D. student at VISTEC in the Natural Language and Representation Lab (NRL), [School of Information Science and Technology (IST)](https://vistec.ist/), under the supervision of [Assoc. Prof. Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ) and [Asst. Prof. Ekapol Chuangsuwanich](https://ekapolc.github.io/).
+I received my Ph.D. from VISTEC, the Natural Language and Representation Lab (NRL), [School of Information Science and Technology (IST)](https://vistec.ist/), under the supervision of [Assoc. Prof. Sarana Nutanong](https://scholar.google.com/citations?user=fEPAC_AAAAAJ) and [Asst. Prof. Ekapol Chuangsuwanich](https://ekapolc.github.io/).
 
-My research primarily focuses on **Multilingual Distillation and Tool-Integrated Reasoning**.
+My research primarily focuses on **Multilingual Post-Training, Tool-Use, and Evaluations**.
 
 Beyond my core research, I serve as a mentor for the [SEACrowd 2026 Apprentice Program](https://seacrowd.org/apprenticeship), collaborating with [Samuel Cahyawijaya](https://scholar.google.com/citations?user=w5w_WZEAAAAJ&hl=en) on Multilingual Agentic Systems for Underrepresented Regions.
 
