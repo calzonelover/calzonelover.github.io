@@ -18,7 +18,7 @@ Previously, I contributed to the Thai LLM community through the WangchanX Projec
 
 Publications
 ======
-- [Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter](https://arxiv.org/pdf/2606.16934) **Patomporn Payoungkhamdee**, Napat Laosaengpha, Jenta Wonglertsakul, Pittawat Taveekitworachai, Pume Tuchinda, Panjapong Poobanchuen, Ekapol Chuangsuwanich, Can Udomcharoenchaikit, Samuel Cahyawijaya, Peerat Limkonchotiwat, Sarana Nutanong **(TMLR 2026)**
+- [Exploring Extrinsic and Intrinsic Properties for Effective Reasoning with Code Interpreter](https://openreview.net/pdf?id=CGGLbPh6qb) **Patomporn Payoungkhamdee**, Napat Laosaengpha, Jenta Wonglertsakul, Pittawat Taveekitworachai, Pume Tuchinda, Panjapong Poobanchuen, Ekapol Chuangsuwanich, Can Udomcharoenchaikit, Samuel Cahyawijaya, Peerat Limkonchotiwat, Sarana Nutanong **(TMLR 2026)**
 - [DuDi: Dual-Signal Distillation with Cross-Lingual Verbalizer](https://arxiv.org/pdf/2606.04694) **Patomporn Payoungkhamdee\***, Tinnakit Udsa\*, Jian Gang Ngui, Sarana Nutanong, Alham Fikri Aji, Peerat Limkonchotiwat **(AACL 2026)**
 - [SEATauBench: Adapting Tool-Agent-User Evaluation Into Low-Resource Southeast Asian Languages](https://arxiv.org/pdf/2606.28715) My Chiffon Nguyen, Aulia Adila, Saksorn Ruangtanusak, Kittiphat Leesombatwathana, Vissuta Gunawan Lim, **Patomporn Payoungkhamdee**, Samuel Cahyawijaya **(Findings of EMNLP 2026)**
 - [Exploring Cross-Client Memorization of Training Data in Large Language Models for Federated Learning](https://arxiv.org/pdf/2510.08750) Tinnakit Udsa, Can Udomcharoenchaikit, **Patomporn Payoungkhamdee**, Sarana Nutanong, Norrathep Rattanavipanon **(ACL 2026)**
